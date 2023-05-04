@@ -37,7 +37,7 @@ public class CalcolaBiglietto {
 			System.out.println("Il prezzo del biglietto sara: " + Math.round(prezzoBiglietto*100.0)/100.0 + " euro");
 		}
 		
-		
+		myObj.close();
 		
 	}
 	
